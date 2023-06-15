@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sat224/project-VideoChatApp/static/css/main.48cd6b27.css",
+    "main.js": "/sat224/project-VideoChatApp/static/js/main.8a54ad88.js",
+    "index.html": "/sat224/project-VideoChatApp/index.html",
+    "main.48cd6b27.css.map": "/sat224/project-VideoChatApp/static/css/main.48cd6b27.css.map",
+    "main.8a54ad88.js.map": "/sat224/project-VideoChatApp/static/js/main.8a54ad88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48cd6b27.css",
+    "static/js/main.8a54ad88.js"
+  ]
+}
