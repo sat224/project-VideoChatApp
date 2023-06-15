@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sat224/project-VideoChatApp/static/css/main.48cd6b27.css",
-    "main.js": "/sat224/project-VideoChatApp/static/js/main.8a54ad88.js",
-    "index.html": "/sat224/project-VideoChatApp/index.html",
-    "main.48cd6b27.css.map": "/sat224/project-VideoChatApp/static/css/main.48cd6b27.css.map",
-    "main.8a54ad88.js.map": "/sat224/project-VideoChatApp/static/js/main.8a54ad88.js.map"
+    "main.css": "/project-VideoChatApp/static/css/main.48cd6b27.css",
+    "main.js": "/project-VideoChatApp/static/js/main.a267aacd.js",
+    "index.html": "/project-VideoChatApp/index.html",
+    "main.48cd6b27.css.map": "/project-VideoChatApp/static/css/main.48cd6b27.css.map",
+    "main.a267aacd.js.map": "/project-VideoChatApp/static/js/main.a267aacd.js.map"
   },
   "entrypoints": [
     "static/css/main.48cd6b27.css",
-    "static/js/main.8a54ad88.js"
+    "static/js/main.a267aacd.js"
   ]
 }
